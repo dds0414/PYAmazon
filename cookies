@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: session-id="165-0574431-4930430"; path="/"; domain=".amazon.com"; path_spec; domain_dot; expires="2036-09-12 17:09:35Z"; version=0
+Set-Cookie3: session-id-time=2104852175l; path="/"; domain=".amazon.com"; path_spec; domain_dot; expires="2036-09-12 17:09:35Z"; version=0
+Set-Cookie3: session-token="\"7e5uvKeD156MQtj9+af6YcR5n9kw7zsybL2KZVmxySFNyo3djRgelbG8K9+Xm326BlX3oe/iRsR/7Jz8SKiHq8HLH70Wf2AEyQXHDq+E0NJqAXrigqepA469LEjdkd7QjduUlCHWWv7GdtJ6Gek7uCK5iTMtjfxXZsUSiwkRlcFWBSK9hYVwqcIQdcJXCH+y2N50vQj0KZ/ehpz7e+Vu1w==\""; path="/"; domain=".amazon.com"; path_spec; domain_dot; expires="2036-09-12 17:09:38Z"; version=0
+Set-Cookie3: ubid-main="167-9105820-6262239"; path="/"; domain=".amazon.com"; path_spec; domain_dot; expires="2036-09-12 17:11:24Z"; version=0
